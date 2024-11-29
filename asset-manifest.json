@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/20d170043_Vedant_Khokher_20D170043/static/css/main.5d3a9670.css",
+    "main.js": "/20d170043_Vedant_Khokher_20D170043/static/js/main.8f38b0d6.js",
+    "static/js/453.db45b467.chunk.js": "/20d170043_Vedant_Khokher_20D170043/static/js/453.db45b467.chunk.js",
+    "index.html": "/20d170043_Vedant_Khokher_20D170043/index.html",
+    "main.5d3a9670.css.map": "/20d170043_Vedant_Khokher_20D170043/static/css/main.5d3a9670.css.map",
+    "main.8f38b0d6.js.map": "/20d170043_Vedant_Khokher_20D170043/static/js/main.8f38b0d6.js.map",
+    "453.db45b467.chunk.js.map": "/20d170043_Vedant_Khokher_20D170043/static/js/453.db45b467.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3a9670.css",
+    "static/js/main.8f38b0d6.js"
+  ]
+}
